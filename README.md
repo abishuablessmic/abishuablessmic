@@ -1,3 +1,2 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=abishuablessmic)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abishuablessmic)](https://git.io/streak-stats)
 
